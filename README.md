@@ -2,15 +2,15 @@
 
 
 In order to install this app and play around/modify it:
-- click "download zip" or do a pull request
-- run npm install in the root folder of the project
-- navigate to the /ios folder
-- open WeatherProject.xcodeproj/ in your text editor
-- open the directory in your text editor
-- In xcode, the play button in the top left runs the simulator
-    + note:I was getting an error which was fixed by the method outlined here:
++ click "download zip" or do a pull request
++ run npm install in the root folder of the project
++ navigate to the /ios folder
++ open WeatherProject.xcodeproj/ in your text editor
++ open the directory in your text editor
++ In xcode, the play button in the top left runs the simulator
+    - note: I was getting an error which was fixed by the method outlined here:
     http://stackoverflow.com/questions/25908604/error-objc-class-appdelegate-referenced-from-and-error-linker-command-f
-- In your text editor, play around with the components to your hearts content
++ In your text editor, play around with the components to your hearts content
 
 
 This app was made using this tutorial: https://www.raywenderlich.com/126063/react-native-tutorial
