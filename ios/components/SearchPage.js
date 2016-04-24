@@ -85,7 +85,7 @@ class SearchPage extends Component {
   constructor(props) {
   super(props);
     this.state = {
-      searchString: 'London',
+      searchString: 'Liverpool',
       isLoading: false,
       message: ""
     };
@@ -135,7 +135,7 @@ class SearchPage extends Component {
     this.setState({ isLoading: false , message: '' });
     if (response.application_response_code.substr(0, 1) === '1') {
       this.props.navigator.push({
-        title: 'Results',
+        title: 'Search Results',
         component: SearchResults,
         passProps: {listings: response.listings}
       });

@@ -26,7 +26,7 @@ class WeatherProject extends React.Component {
       <React.NavigatorIOS
         style={styles.container}
         initialRoute={{
-          title: 'Ballin\'',
+          title: 'Home',
           component: SearchPage,
         }}/>
     );

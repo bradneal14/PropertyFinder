@@ -55,7 +55,7 @@ class SearchResults extends Component {
   renderRow(rowData, sectionID, rowID) {
     var price = rowData.price_formatted.split(' ')[0];
     return (
-      <TouchableHighlight onPress={() => this.rowPressed(rowData.title)}
+      <TouchableHighlight onPress={() => this.rowPressed(rowData)}
           underlayColor='#dddddd'>
         <View>
           <View style={styles.rowContainer}>
@@ -73,10 +73,10 @@ class SearchResults extends Component {
   }
 
   rowPressed(propertyTitle) {
-    var property = this.props.listings.filter(prop => prop.title === propertyTitle)[0];
+    var property = propertyTitle
 
     this.props.navigator.push({
-      title: "Property",
+      title: "Property View",
       component: PropertyView,
       passProps: {property: property}
     });
