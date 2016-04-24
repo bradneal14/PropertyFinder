@@ -25,4 +25,4 @@ TL;DR/Followed a tutorial, fixed a bug.
 ##Search Page (Home)
 
 
-![Alt text]("./readme_assets/Home.jpg")
+![Alt text](./readme_assets/Home.jpg)
