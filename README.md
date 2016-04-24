@@ -22,19 +22,19 @@ This was a great introduction to React-Native and it was very easy for me to und
 TL;DR/Followed a tutorial, fixed a bug.
 
 
-##Search Page (Home)
+####Search Page (Home)
 
-<img src="https://raw.github.com/bradneal14/PropertyFinder/master/readme_assets/H.png" width="350">
+<img src="https://raw.github.com/bradneal14/PropertyFinder/master/readme_assets/H.png" width="420">
 
 
-##Search Results
+###Search Results
 
 
 ![ScreenShot](https://raw.github.com/bradneal14/PropertyFinder/master/readme_assets/SR.png)
 
 
 
-##Property View
+###Property View
 
 
 ![ScreenShot](https://raw.github.com/bradneal14/PropertyFinder/master/readme_assets/PV.png)
