@@ -25,4 +25,17 @@ TL;DR/Followed a tutorial, fixed a bug.
 ##Search Page (Home)
 
 
-![ScreenShot](https://raw.github.com/bradneal14/PropertyFinder/master/readme_assets/Home.png)
+![ScreenShot](https://raw.github.com/bradneal14/PropertyFinder/master/readme_assets/H.png)
+
+
+##Search Results
+
+
+![ScreenShot](https://raw.github.com/bradneal14/PropertyFinder/master/readme_assets/SR.png)
+
+
+
+##Property View
+
+
+![ScreenShot](https://raw.github.com/bradneal14/PropertyFinder/master/readme_assets/PV.png)
